@@ -12,7 +12,7 @@ function App() {
   const [data, setData] = useState([]);
   const [count, setCount] = useState(20);
   const [text, setText] = useState("cars");
-  const [loading, setLoading] = useState(false)
+  // const [loading, setLoading] = useState(false)
 
 
 
